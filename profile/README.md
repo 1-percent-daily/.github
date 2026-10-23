@@ -45,6 +45,6 @@ so small progress compounds instead of getting lost.
 ---
 
 <p align="center">
-  Built in <b>Antananarivo, Madagascar</b> 🇲🇬 by <a href="https://axel-rakotoarivao.pages.dev/"><b>Axel RAKOTOARIVAO</b></a><br>
-  <a href="https://axel-rakotoarivao.pages.dev/">Portfolio</a> · <a href="https://github.com/Dokja620">GitHub</a>
+  Built in <b>Antananarivo, Madagascar</b> 🇲🇬 by <a href="https://diary.mg"><b>Axel RAKOTOARIVAO</b></a><br>
+  <a href="https://diary.mg">Portfolio</a> · <a href="https://github.com/Dokja620">GitHub</a>
 </p>
